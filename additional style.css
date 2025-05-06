@@ -1,0 +1,15 @@
+body{
+    font font-family: Aria, sans-serif;
+    padding: 40x;
+    background color: grey;
+}
+h1, h2{
+    color: blue;
+}
+nav ul{
+    list-style-type: disc;
+}
+nav ul li{
+    list-style: inline;
+    padding:0;
+}
